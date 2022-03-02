@@ -27,10 +27,12 @@ a:visited {
 a:hover {
   color: #e6fe1b;
   text-decoration: none;
+  cursor: pointer;
 }
 
 /* selected link */
 a:active {
   color: #000fb;
   text-decoration: none;
+  cursor: pointer;
 }
