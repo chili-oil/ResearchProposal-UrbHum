@@ -37,3 +37,8 @@ a:active {
   text-decoration: none;
   cursor: pointer;
 }
+
+.background-container {
+  width: 50%;
+  margin: 1%;
+}
