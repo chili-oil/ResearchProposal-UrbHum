@@ -12,6 +12,11 @@ body {
   margin: 2%;
 }
 
+.image-container{
+  width: 49%;
+  float: right;
+}
+
 /* unvisited link */
 a:link {
   color: #aeaffe;
