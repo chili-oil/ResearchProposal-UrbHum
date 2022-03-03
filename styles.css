@@ -13,8 +13,14 @@ body {
 }
 
 .image-container{
-  width: 49%;
+  width: 47%;
   float: right;
+}
+
+.background-container {
+  width: 50%;
+  margin: 1%;
+  float: left;
 }
 
 /* unvisited link */
@@ -41,9 +47,4 @@ a:active {
   color: #000fb;
   text-decoration: none;
   cursor: pointer;
-}
-
-.background-container {
-  width: 50%;
-  margin: 1%;
 }
