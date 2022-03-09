@@ -44,7 +44,11 @@ a:hover {
 
 /* selected link */
 a:active {
-  color: #000fb;
+  color: #0000fb;
   text-decoration: none;
   cursor: pointer;
+}
+
+h3 {
+  color: #e2ef85;
 }
